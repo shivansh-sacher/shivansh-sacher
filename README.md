@@ -33,7 +33,7 @@
 
 ---
 
-> 💡 I Am Passionate about transforming data into actionable insights and driving business value through analytics. I am a Business Intelligence Developer, with over 4 years of experience in designing and implementing data-driven solutions.
+> 💡 I Am Passionate about transforming data into actionable insights and driving business value through analytics.
 
 ---
 
