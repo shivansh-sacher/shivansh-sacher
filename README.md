@@ -3,18 +3,18 @@
 # Hi there, I'm Shivansh Sacher 👋
 
 
-📊 I am A Data Analyst
+📊 I am a Data Analyst
 
 ---
 
-🛠️ My Technical Skills Include
+🛠️ My technical skills include
 
 - SQL 🗄️, Python 🐍
 - Building robust and scalable models for business intelligence 🏗️
 
 ---
 
-🧠 I Am Also Familiar With Techniques & Methodologies Like
+🧠 I am also familiar with techniques & methodologies like
 
 - Data Storytelling 📖
 - Data Visualization 📈
@@ -25,7 +25,7 @@
 
 ---
 
-⚙️ My Skills Also Include
+⚙️ My skills also include
 
 - Microsoft Power BI 📊
 - MS Office Suite 💻
