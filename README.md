@@ -1,16 +1,42 @@
-## Hi there 👋
+![dino](https://github.com/user-attachments/assets/7001ea93-9cb8-44b2-8cb4-ebbdfbaa17c6)
+
+# Hi there, I'm Shivansh Sacher 👋
+
+
+📊 I am A Data Analyst
+
+---
+
+🛠️ My Technical Skills Include
+
+- SQL 🗄️, Python 🐍
+- Building robust and scalable models for business intelligence 🏗️
+
+---
+
+🧠 I Am Also Familiar With Techniques & Methodologies Like
+
+- Data Storytelling 📖
+- Data Visualization 📈
+- Business Requirements Gathering 📝
+- Data Governance & Compliance 📋🔒
+- Report Scheduling ⏰
+- Change Management 🔄
+
+---
+
+⚙️ My Skills Also Include
+
+- Microsoft Power BI 📊
+- MS Office Suite 💻
+- PostgreSQL 🗃️
+
+---
+
+> 💡 I Am Passionate about transforming data into actionable insights and driving business value through analytics. I am a Business Intelligence Developer, with over 4 years of experience in designing and implementing data-driven solutions.
+
+---
 
 <!--
-**shivansh-sacher/shivansh-sacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌐 Want to connect? Add your LinkedIn, portfolio, or other social links here!
 -->
